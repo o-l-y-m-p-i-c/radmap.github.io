@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b0fe0a6.css",
+    "main.js": "/static/js/main.0e934a35.js",
+    "static/media/footer-logo.svg": "/static/media/footer-logo.58ffb03bd234d9a9badd4dbed708e8b7.svg",
+    "static/media/bg.png": "/static/media/bg.95c446e04eab6e33ca21.png",
+    "static/media/rabbit.png": "/static/media/rabbit.cb9a2f7afd7445ef7f00.png",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.be86c23ccc9cb2e1f4f1.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/CinzelDecorative-Black.ttf": "/static/media/CinzelDecorative-Black.816a38406bc66ba743a9.ttf",
+    "static/media/CinzelDecorative-Bold.ttf": "/static/media/CinzelDecorative-Bold.6e7197bb58aab04bdb94.ttf",
+    "static/media/CinzelDecorative-Regular.ttf": "/static/media/CinzelDecorative-Regular.ec95ca015c525e23957d.ttf",
+    "static/media/bg-shape.svg": "/static/media/bg-shape.a19a11f1131b7bdf36c2.svg",
+    "static/media/footer-shape.svg": "/static/media/footer-shape.ee8697f30939bec8e807.svg",
+    "static/media/vote.png": "/static/media/vote.ea91e7e38f1294e54e83.png",
+    "static/media/logo-name.svg": "/static/media/logo-name.ffcf88bafa00d3de0bd0777ea9ef77f8.svg",
+    "index.html": "/index.html",
+    "static/media/Vector 3.svg": "/static/media/Vector 3.21f10c246b1140680fd4dff631a66097.svg",
+    "main.7b0fe0a6.css.map": "/static/css/main.7b0fe0a6.css.map",
+    "main.0e934a35.js.map": "/static/js/main.0e934a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0fe0a6.css",
+    "static/js/main.0e934a35.js"
+  ]
+}
